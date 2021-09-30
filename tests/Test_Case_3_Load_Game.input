@@ -1,0 +1,6 @@
+2
+savedGame
+place B3 at B2
+place B2 at B3
+replace G5
+LINE-FOR-NOT-READING-EOF-AND-FALLING-THROUGH-LOOP

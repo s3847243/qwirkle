@@ -1,0 +1,16 @@
+1
+Hibbaan
+Abu
+place O4 at K14
+place O2 at K15
+place O5 at K16
+place O3 at K17
+replace G5
+place O6 at K18
+replace O3
+replace O2
+replace P1
+replace Y4
+replace R1
+place O1 at K19
+LINE-FOR-NOT-READING-EOF-AND-FALLING-THROUGH-LOOP
